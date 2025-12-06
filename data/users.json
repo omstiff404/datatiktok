@@ -1,1 +1,26 @@
-[]
+[
+  {
+    "id": "1764994262782",
+    "username": "omstiff",
+    "tiktokUsername": "omstiff404",
+    "password": "Sukma0901",
+    "tiktokData": {
+      "creator": "FikXzMods",
+      "status": true,
+      "result": {
+        "id": "6870524375919461378",
+        "uniqueId": "omstiff404",
+        "nickname": "O2N`OmStiff007",
+        "avatar": "https://p16-common-sign.tiktokcdn-us.com/tos-alisg-avt-0068/41ec9f2a9a0664aa0d721b579905dfd6~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=9640&refresh_token=bf3873dd&x-expires=1765166400&x-signature=JgtXLvrwieAPMUO7jJXzIoOajq4%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast8",
+        "verified": false,
+        "signature": "Part Of OMG\nAM premium 5k/tahun\nPreset 😎😎\n👇👇👇",
+        "following": 128,
+        "followers": 14700,
+        "likes": 567800,
+        "videos": 284
+      }
+    },
+    "registeredAt": "2025-12-06T04:11:02.782Z",
+    "lastUpdated": "2025-12-06T04:11:02.782Z"
+  }
+]
